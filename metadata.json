@@ -1,0 +1,8 @@
+{
+  "name": "Grameena Ruchulu",
+  "description": "Authentic homemade Telangana & Andhra pickles. The Taste of Home, in Every Jar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
